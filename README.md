@@ -1,2 +1,2 @@
 # qt-test-application
-capten-testing
+capten-cluster
